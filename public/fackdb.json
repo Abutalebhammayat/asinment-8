@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "https://s3-alpha-sig.figma.com/img/3693/5dcf/f79dff0324c966b5479581b5b3d5d1e6?Expires=1700438400&Signature=hG6VHfLn3Xc3sL1yYn1kGmOJ6ZqIk9FjDg7q7f7FIFlZXDmhTNfRIGwTUlIljZkGMHtZ8it79mWdAlJmXWwCtAsK74C~QbRjMnjJX5EHA0sMwE3tZ2WDqnlenoR9trun-Sy5Gud872AxE5Lqpk7ERGNxWXmfUU9hNMGggh3Wo0MD6Y9LIqbtG7XfcL1zm~q5y9J5xN0mdfWa99glRDWC6R5cgR6--qsZ3leqcFmniGT7~V7nd5wcwwQtlsImH5RimViTfJGwk8KjLbbHeYuiNfan6Kjq9eLt7ChFYDp8AqX5x460XHcGPynRPYy2r~Yneg4O-B6c93nmEoIRsELQug__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Mr. Raju",
+        "logoImg":"https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+        "post": "Mar 14 (4 Days ago)",
+        "time":"05 min read",
+        "info": "How to get your first job as a self-taught programmer"
+    },
+    {
+        "id": 2,
+        "img": "https://s3-alpha-sig.figma.com/img/2a93/e829/d767f43742af2b4fc8088cc67eaaa242?Expires=1700438400&Signature=Q6LJ86Ig1lBoiCp9bRWjIOWrrVpwpx~bG4zyM3lY2pRbiX82PWKaQzINNyJvplH7IsjShDHroKCtzrOm~UQEONQAcFOzGhoFEH5ka8dYn8er0H7BBHWr6Pe6zQIJ4jp9WqeJk8zIwTU0yR7LMdXgEtX7~8ggQKtayZ6JxN0-zSO7lKvEfBpZVjAgz4XgyGUPOCvLSRH50YAmY2oFOpi4tcM7R0ezL0Hv9TQ1bEm~P4PkR8c4uL52vmBbZVWGpa8Gv5jb2EaXXeiBZPb5mehCuIjDjaVmfWdpIvXaeGbJH8vyroMInXApc0qXAadLt2nA8tlzj0kIR3t~5t9K-fsV7w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Mrs. Setara",
+        "logoImg":"https://static.vecteezy.com/system/resources/previews/009/749/643/non_2x/woman-profile-mascot-illustration-female-avatar-character-icon-cartoon-girl-head-face-business-user-logo-free-vector.jpg",
+        "post": "Mar 24 (21 Days ago)",
+        "time":"08 min read",
+        "info": "Master Microsoft Power Platform and Become an In-Demand!"
+    },
+    {
+        "id": 3,
+        "img": "https://s3-alpha-sig.figma.com/img/5423/0352/4aa87ef040ab7e513b1b790d9b1c6743?Expires=1700438400&Signature=OAssF~lueSaj9a2AV4umibSBN3TKsUA6Ld-MUwlnTNklTJEV4yJC4tlOBC0fzyiNFdff0rtPBN~7tLUNKhv2WWgRGhqVoYC5PyAzJc3MB4yX~ymhqCoURPA1VNRfGfCQRupNqreGLbPgPHfOgkv15rfLEzGpDU6nVfssxmKIl9ucAw61WVnL68j3SHzUl9ppjDU9PRpj~m86dAX6Sc5UUgTQQz1HauWF3NecbITTzTiPM5o6Z6ydh-MkpPyNjNETaWJo199wiLVTIOsL8Tt3vaQVDKqFoYlsF8WWrxii~TKFxikuvOQwT8OpUJ522~x7a5PF6MoFCwxdxcknKnjh8w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Mina Mostofa",
+        "logoImg":"https://static.vecteezy.com/system/resources/previews/002/518/094/non_2x/boy-character-avatar-in-cartoon-flat-style-round-icon-vector.jpg",
+        "post": "Mar 1 (6 Days ago)",
+        "time":"12 min read",
+        "info": " To start, you'll need knowledge of at least one programming language."
+    },
+    {
+        "id": 4,
+        "img": "https://miro.medium.com/v2/resize:fit:1400/0*SPjH6EGSjLcMPv8Q.jpg",
+        "name": "Mr. Khan",
+        "logoImg":"https://img.freepik.com/premium-vector/round-kid-avatar-funny-boy-glasses-portrait_176411-5400.jpg?w=740",
+        "post": "Mar 4 (1 Days ago)",
+        "time":"3 min read",
+        "info": "Object-oriented programming (OOP) languages"
+    }
+]

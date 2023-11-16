@@ -1,0 +1,35 @@
+.main {
+    width: 100%;
+}
+
+.header-of-side-bar {
+    text-align: center;
+    width: 100%;
+    padding: 30px 60px;
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    background: rgba(96, 71, 236, 0.10);
+    color: #6047EC;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    margin-bottom: 20px;
+}
+
+.body-of-side-bar {
+    width: 100%;
+    padding: 40px 70px;
+    border-radius: 8px;
+    background: rgba(17, 17, 17, 0.05);
+}
+
+.body-of-side-bar div {
+    text-align:left ;
+}
+
+.sub-body-of-side-bar {
+    padding: 20px 15px;
+    border-radius: 8px;
+    background: #FFF;
+}

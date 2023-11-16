@@ -1,0 +1,85 @@
+/*Banner Image */
+.img-container {
+    width: 100%;
+    height: 500px;
+}
+
+.img-container img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.banner-info1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+/*------------------*/
+.banner-info2 h2 {
+    font-size: 40px;
+}
+
+.tag {
+    color: rgba(17, 17, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    margin-right: 13px;
+    font-weight: 500;
+    line-height: 160%;
+    /* 32px */
+}
+
+.mark-btn {
+    color: #6047EC;
+    font-family: Exo 2;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration-line: underline;
+    border: none;
+    background-color: white;
+    padding-left: 0;
+}
+
+/*------------------*/
+/*Banner Image */
+
+/*Logo Image */
+.logo-name-parent {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.logoImg-parent {
+    width: 60px;
+    height: 60px;
+}
+
+.logoImg-parent img {
+    width: 100%;
+    height: 100%;
+}
+
+.man-name {
+    font-size: 24px;
+}
+
+/*Logo Image */
+
+/*Save Item*/
+.save-parent {
+    color: gray;
+}
+
+
+/*Remover*/
+.remove {
+    border: none;
+    margin: 0;
+    padding: 5px;
+    outline-style: none;
+    background-color: white;
+}

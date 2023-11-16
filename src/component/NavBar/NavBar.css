@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    border-bottom: 1px solid lightgray;
+}
+.nav h3{
+    font-size: 35px;
+}
+.nav img{
+    width: 60px;
+    height: 55px;
+}
