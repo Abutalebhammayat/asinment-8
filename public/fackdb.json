@@ -5,7 +5,7 @@
         "name": "Mr. Raju",
         "logoImg":"https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
         "post": "Mar 14 (4 Days ago)",
-        "time":"05 min read",
+        "time":"05",
         "info": "How to get your first job as a self-taught programmer"
     },
     {
@@ -14,7 +14,7 @@
         "name": "Mrs. Setara",
         "logoImg":"https://static.vecteezy.com/system/resources/previews/009/749/643/non_2x/woman-profile-mascot-illustration-female-avatar-character-icon-cartoon-girl-head-face-business-user-logo-free-vector.jpg",
         "post": "Mar 24 (21 Days ago)",
-        "time":"08 min read",
+        "time":"08",
         "info": "Master Microsoft Power Platform and Become an In-Demand!"
     },
     {
@@ -23,7 +23,7 @@
         "name": "Mina Mostofa",
         "logoImg":"https://static.vecteezy.com/system/resources/previews/002/518/094/non_2x/boy-character-avatar-in-cartoon-flat-style-round-icon-vector.jpg",
         "post": "Mar 1 (6 Days ago)",
-        "time":"12 min read",
+        "time":"12",
         "info": " To start, you'll need knowledge of at least one programming language."
     },
     {
@@ -32,7 +32,7 @@
         "name": "Mr. Khan",
         "logoImg":"https://img.freepik.com/premium-vector/round-kid-avatar-funny-boy-glasses-portrait_176411-5400.jpg?w=740",
         "post": "Mar 4 (1 Days ago)",
-        "time":"3 min read",
+        "time":"3",
         "info": "Object-oriented programming (OOP) languages"
     }
 ]

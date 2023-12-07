@@ -1,9 +1,9 @@
 import {useState} from 'react';
 import './Item.css'
-import SideBar from '../SideBar/SideBar';
 const Item = (props) => {
     const [count, setCount] = useState(0)
-    const {name,img,logoImg,post,info,time}= props.post
+    const {name,img,logoImg,post,info,time}= props.post ;
+    const eventHanlareByClick = props.eventHanlareByClick;
     return (
         <div>
             <div className='img-container'>
@@ -20,8 +20,8 @@ const Item = (props) => {
                     </div>
                 </div>
                 <div className='save-parent'>
-                    <span> {time}</span>
-                    <button className='remove' onClick={() => setCount((count) => count + 1)}>
+                    <span> {time} min read</span>
+                    <button className='remove' onClick={() => eventHanlareByClick(props.post)}>
                      <i class="fa-regular fa-bookmark save-parent"></i>
                     </button>
                 </div>
